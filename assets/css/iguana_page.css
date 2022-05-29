@@ -1,6 +1,16 @@
 /*código fuente
 font-family: 'Raleway', sans-serif;*/
 
+body {
+    padding-top: 54px;
+}
+
+@media (max-width: 768px) {
+    body {
+        padding-top: 0;
+    }
+}
+
 .bg-beige {
     background-color: rgb(155, 155, 118);
 }
