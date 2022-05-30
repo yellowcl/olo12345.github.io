@@ -3,11 +3,50 @@
 }
 
 body {
-    padding-top: 54px;
+    padding-top: 80px;
 }
 
-@media (max-width: 768px) {
-    body {
-        padding-top: 0;
-    }
+.text-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-weight-light {
+    font-weight: 300;
+}
+
+.text-weight-medium {
+    font-weight: 500;
+}
+
+.bg-verde {
+    background-color: #28A745;
+}
+
+.logo-navbar {
+    height: 28px;
+}
+
+.precio2 {
+    color: #28A745;
+}
+
+.text-light-grey {
+    color: #707070;
+}
+
+.img-footer {
+    height: 24px;
+}
+
+.parrafo-1 {
+    font-size: 16px;
+}
+
+.text-direccion {
+    font-size: 13px;
+}
+
+.c-title {
+    color: #212529;
+    font-size: 20px;
 }
