@@ -3,5 +3,22 @@
 }
 
 body {
-    padding-top: 54px;
+    padding-top: 70px;
+}
+
+.text-roboto {
+    font-family: 'Roboto', sans-serif;
+}
+
+.text-weight-light {
+    font-weight: 300;
+}
+
+.text-weight-medium {
+    font-weight: 500;
+}
+
+.c-title {
+    color: #212529;
+    font-size: 20px;
 }
